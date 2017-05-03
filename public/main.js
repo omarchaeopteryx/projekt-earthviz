@@ -16,6 +16,9 @@ $( document ).ready(function() {
             case 16:
                 console.log('shift pressed');
                 break;
+            case 32:
+                world.css("stroke","black");
+                sea.css("background-color","white");
             case 97:
                 console.log("a");
                 world.css("stroke","blue");
