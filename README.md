@@ -1,4 +1,4 @@
-# projekt-earthviz
+# Projekt-Earthviz
 A simple interactive JavaScript demonstration. 
 * For educational purposes - check out the Developer Tools to see what's going on!
 
